@@ -14,9 +14,14 @@ public class Test {
 		
 		System.out.println("BranchA iteration 2");
 		
+<<<<<<< Updated upstream
 		//-----
 		System.out.println("B Changes");
 		System.out.println("Code By Ankit");
+=======
+		
+		System.out.println("Rani code ");
+>>>>>>> Stashed changes
 
 	}
 }
